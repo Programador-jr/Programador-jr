@@ -17,5 +17,5 @@ Here are some ideas to get you started:
  **I’m currently learning JavaScript, HTML5, CSS3 and Python**
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=white)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&langs_count=5&theme=white)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=dark)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&langs_count=5&theme=dark)
