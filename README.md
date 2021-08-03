@@ -1,8 +1,8 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=react)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&langs_count=5&theme=react)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=react)<br>
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&langs_count=5&theme=react) 
 <p align="center"> 
 
- ## Total profile visits :detective: <br>
+ <h2 align="center"> Total profile visits :detective:</h2> <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Programador-jr/count.svg" />
  </p>
