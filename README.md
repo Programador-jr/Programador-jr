@@ -4,7 +4,7 @@
 
  <h2 align="center"> Total profile visits :detective:</h2> <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/umserqualquer/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/Programador-jr/count.svg" />
  </p>
 </p>
 <div align="center">
