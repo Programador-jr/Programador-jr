@@ -5,9 +5,9 @@
 
 ![Metrics](https://metrics.lecoq.io/Programador-jr?template=classic&isocalendar=1&languages=1&introduction=1&people=1&lines=1&pagespeed=1&isocalendar.duration=full-year&languages.ignored=typescript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=false&people.limit=24&people.size=28&people.types=followers%2C%20following&people.sponsors.custom=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fhosted_button_id%3DMQZXXV7DF6QE8&people.identicons=false&people.shuffle=false&pagespeed.url=https%3A%2F%2Fportfolio.kingprogrammer.repl.co%2F&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FRio_Branco&config.twemoji=true)
 
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=react)
 
-<hr>
 
 ### &nbsp;Total profile visits :detective:
 
