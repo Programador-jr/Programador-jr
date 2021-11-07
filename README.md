@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%SkyBlue&lines=Daniel+Melo)](https://github.com/Programador-jr)
 
 
-![Metrics](https://metrics.lecoq.io/Programador-jr?template=classic&pagespeed=1&languages=1&isocalendar=1&people=1&isocalendar.duration=full-year&languages.ignored=typescript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&pagespeed.url=https%3A%2F%2Fkingbot.cf&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FRio_Branco)
+![Metrics](https://metrics.lecoq.io/Programador-jr?template=classic&pagespeed=1&languages=1&isocalendar=1&lines=1&isocalendar.duration=half-year&languages.ignored=typescript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&pagespeed.url=https%3A%2F%2Fkingbot.cf&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=America%2FRio_Branco)
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=react)
