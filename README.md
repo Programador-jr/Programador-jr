@@ -39,7 +39,3 @@
   [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198992203179/)&nbsp;
   [![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-br/Profile?xr=socialtwistnav)&nbsp;
   [![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/br/profile/1115631926)
-  
-  ### &nbsp;Donate me
-  
-  [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=MQZXXV7DF6QE8)
