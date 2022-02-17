@@ -1,16 +1,21 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%SkyBlue&lines=Daniel+Melo)](https://github.com/Programador-jr)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%SkyBlue&lines=Welcome+to+my+profile)](https://github.com/Programador-jr)
 
+  ### &nbsp;Metrics
 
-![Metrics](https://metrics.lecoq.io/Programador-jr?template=classic&pagespeed=1&languages=1&isocalendar=1&lines=1&isocalendar.duration=half-year&languages.ignored=typescript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&pagespeed.url=https%3A%2F%2Fkingbot.cf&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=America%2FRio_Branco)
+![Metrics](https://metrics.lecoq.io/Programador-jr?template=classic&notable=1&pagespeed=1&isocalendar=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FRio_Branco)
 
+<hr>
+
+  ### &nbsp;GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=react)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&layout=compact&theme=react)
 
-### &nbsp;Total profile visits :detective:
+![king's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgramadorJr)
 
-![Count](https://profile-counter.glitch.me/Programador-jr/count.svg)
+<hr>
    
  ### &nbsp;Skills
 
