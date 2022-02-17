@@ -13,8 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&layout=compact&theme=react)
 
-![king's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgramadorJr)
-
 <hr>
    
  ### &nbsp;Skills
