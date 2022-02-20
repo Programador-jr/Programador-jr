@@ -7,11 +7,13 @@
 
 <hr>
 
-  ### &nbsp;GitHub Stats
+  ### &nbsp;Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&layout=compact&theme=react)
+
+[![King's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programadorJr)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
    
