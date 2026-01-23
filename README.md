@@ -1,9 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%SkyBlue&lines=Welcome+to+my+profile)](https://github.com/Programador-jr)
 
-  ### &nbsp;Metrics
-
-![Metrics](https://metrics.lecoq.io/Programador-jr?template=classic&notable=1&pagespeed=1&isocalendar=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FRio_Branco)
 
 <hr>
 
@@ -13,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&layout=compact&theme=react)
 
-[![King's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programadorJr)](https://github.com/anuraghazra/github-readme-stats)
+[![King's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programadorJr\&layout=compact\&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
    
