@@ -1,16 +1,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%SkyBlue&lines=Welcome+to+my+profile)](https://github.com/Programador-jr)
 
-
 <hr>
 
   ### &nbsp;Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=react)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&disable-animations=false&show_icons=true&theme=react&hide_border=true&include_all_commits&show=prs_merged_percentage&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&disable-animations=false&layout=compact&theme=react&hide=html,css,scss,ejs&hide_border=true)
 
-[![King's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programadorJr\&layout=compact\&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![King's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programadorJr\&disable-animations=false&layout=compact&theme=react&hide_border=true)
 
 <hr>
    
