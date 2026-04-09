@@ -18,7 +18,7 @@
  ### &nbsp;Skills
 
   ![HTML5](https://img.shields.io/badge/EJS-%239e0990.svg?style=for-the-badge&logo=ejs&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/prisma-%231572B6.svg?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript-%23FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=%23000000)&nbsp;
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
