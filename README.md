@@ -5,17 +5,19 @@
 
   ### &nbsp;Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador-jr&disable-animations=false&show_icons=true&theme=react&hide_border=true&include_all_commits&show=prs_merged_percentage&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Programador-jr&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&disable-animations=false&layout=compact&theme=react&hide=html,css,scss&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Programador-jr&theme=github_dark)
 
-![King's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programadorJr\&disable-animations=false&layout=compact&theme=react&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Programador-jr&layout=compact&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=programadorjr&theme=github_dark)
 
 <hr>
    
  ### &nbsp;Skills
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![HTML5](https://img.shields.io/badge/EJS-%239e0990.svg?style=for-the-badge&logo=ejs&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript-%23FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=%23000000)&nbsp;
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
