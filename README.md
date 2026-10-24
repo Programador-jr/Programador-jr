@@ -10,8 +10,6 @@
 
 Por aqui você vai encontrar bots, APIs, sites, automações e experimentos que começaram com um “e se eu tentasse isso?”. Não tem grande plano de carreira por trás: é curiosidade, aprendizado e diversão.
 
-[Meu site](https://programador-jr.vercel.app/) · [Meus repositórios](https://github.com/Programador-jr?tab=repositories)
-
 </div>
 
 ---
