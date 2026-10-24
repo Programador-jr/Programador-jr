@@ -12,7 +12,7 @@ Here you'll find bots, APIs, websites, automations, and experiments that started
 
 <br/>
 
----
+
 
 ### `- System loadout -`
 
@@ -20,9 +20,9 @@ Here you'll find bots, APIs, websites, automations, and experiments that started
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,python,java,git,github&theme=dark" alt="JavaScript, Node.js, Express, MongoDB, HTML, CSS, Python, Java, Git, and GitHub" />
 </div>
 
-<br/><br/>
+<br/>
 
----
+
 
 ### `- Player stats -`
 
@@ -36,20 +36,20 @@ Here you'll find bots, APIs, websites, automations, and experiments that started
 
 </div>
 
----
+
 
 ### `- Activity map -`
 
 <img src="https://raw.githubusercontent.com/Programador-jr/Programador-jr/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
 
 <img src="https://raw.githubusercontent.com/Programador-jr/Programador-jr/main/output/bonsai-growth.gif" width="384" alt="Pixel art bonsai generated from GitHub activity" />
 
-<br/><br/>
+<br/>
 
 **Coding for fun. Bugs for experience. Learning along the way.**
 </div>
