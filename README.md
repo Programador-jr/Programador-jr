@@ -19,12 +19,10 @@ Here you'll find bots, APIs, websites, automations, and experiments that started
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,python,java,git,github&theme=dark" alt="JavaScript, Node.js, Express, MongoDB, HTML, CSS, Python, Java, Git, and GitHub" />
 </div>
+
 <br/><br/>
 
 ---
-
-<br/><br/>
-
 
 ### `- Player stats -`
 
