@@ -1,0 +1,17 @@
+name: Grow Git Bonsai
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Grow bonsai from GitHub history
+        uses: egorthinks/git-bonsai@v1
