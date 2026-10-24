@@ -39,6 +39,16 @@ Por aqui você vai encontrar bots, APIs, sites, automações e experimentos que 
 
 ---
 
+## Mapa de contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Programador-jr/Programador-jr/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha animada percorrendo o gráfico de contribuições do GitHub" />
+
+</div>
+
+---
+
 ## Por aqui
 
 Se algum projeto te interessar, fique à vontade para explorar, testar ou sugerir melhorias. E se algo quebrar... bom, provavelmente era parte do experimento.
