@@ -21,8 +21,6 @@ Here you'll find bots, APIs, websites, automations, and experiments that started
 </div>
 <br/><br/>
 
-<br/><br/>
-
 ---
 
 <br/><br/>
