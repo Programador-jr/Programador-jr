@@ -1,39 +1,71 @@
+# Daniel Melo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%SkyBlue&lines=Welcome+to+my+profile)](https://github.com/Programador-jr)
+**Backend Developer | Node.js · JavaScript · REST APIs · MongoDB**
 
-<hr>
+I build backend services and practical web applications, with a focus on REST APIs, data persistence, automation, and reliable integrations. I enjoy turning real-world problems into maintainable software and improving projects through testing, documentation, and iterative development.
 
-  ### &nbsp;Stats
+- **Portfolio:** [programador-jr.vercel.app](https://programador-jr.vercel.app/)
+- **Currently focused on:** Node.js, Express, MongoDB, API design, application security, and deployment workflows
+- **Languages:** Portuguese (native) · English (technical documentation and collaboration)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Programador-jr&show_icons=true&theme=github_dark)
+---
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Programador-jr&theme=github_dark)
+## Featured Projects
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Programador-jr&layout=compact&theme=github_dark)
+### [King — Discord Bot & Web Dashboard](https://github.com/Programador-jr/King)
+A feature-rich Discord bot with moderation, music playback, ticket management, automation, and a web dashboard.
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=programadorjr&theme=github_dark)
+**Stack:** Node.js · discord.js · Express · MongoDB · Lavalink
 
-<hr>
-   
- ### &nbsp;Skills
+### [King's Newsletter](https://github.com/Programador-jr/daily-newsletter)
+A news platform with searchable editions, email subscriptions, an administration panel, and educational content about Brazilian history and civic topics.
 
-  ![HTML5](https://img.shields.io/badge/EJS-%239e0990.svg?style=for-the-badge&logo=ejs&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/prisma-%231572B6.svg?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript-%23FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=%23000000)&nbsp;
-  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-  
-  <hr>
-  
-  ### &nbsp;Education
-   [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fccd02483ea-9c3d-44e6-b7a1-ec1488c610c1)&nbsp;
-  [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/96d5875dadce1e70a2870f03021ce81c)&nbsp;
-  
-  ### &nbsp;Meet me here
-  
-  [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/KingKiller)&nbsp;
-  [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198992203179/)&nbsp;
+**Stack:** Node.js · Express · MongoDB · HTML · CSS · JavaScript  
+**Live website:** [dailynewsletter.vercel.app](https://dailynewsletter.vercel.app/)
+
+### [MyFinance API](https://github.com/Programador-jr/MyFinance)
+A REST API for family finance management, including authentication, transactions, categories, shared family accounts, and financial summaries.
+
+**Stack:** Node.js · Express · MongoDB · Mongoose · JWT
+
+### [MuscleLib API](https://github.com/MuscleLib/musclelib-api)
+A multilingual exercise API with fuzzy search, filtering, pagination, and localized responses in English, Portuguese, and Spanish.
+
+**Stack:** Node.js · Express · MongoDB · Fuse.js  
+**Live API:** [libapi.vercel.app](https://libapi.vercel.app/)
+
+### [King-Lavalink](https://github.com/Programador-jr/King-Lavalink)
+A Lavalink deployment and development setup with Java launch scripts, YouTube source plugin support, and a local monitoring dashboard.
+
+**Stack:** Java · Lavalink · Python · PowerShell · Bash
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Node.js, Express.js, REST APIs |
+| Languages | JavaScript, Python, Java |
+| Data | MongoDB, Mongoose, SQL fundamentals |
+| Authentication & security | JWT, OAuth2 integrations, input validation, secure configuration |
+| Frontend | HTML, CSS, JavaScript, Bootstrap |
+| Tools & delivery | Git, GitHub Actions, Vercel, API testing, technical documentation |
+
+---
+
+## How I Work
+
+- Design and maintain API endpoints with clear contracts and validation.
+- Work with databases, authentication, and application integrations.
+- Improve reliability through testing, error handling, and security-focused fixes.
+- Document setup, configuration, and usage so projects are easier to run and contribute to.
+
+## Connect
+
+- **GitHub:** [@Programador-jr](https://github.com/Programador-jr)
+- **Portfolio:** [programador-jr.vercel.app](https://programador-jr.vercel.app/)
+
+---
+
+<sub>Focused on building useful software, learning through implementation, and improving projects one iteration at a time.</sub>
