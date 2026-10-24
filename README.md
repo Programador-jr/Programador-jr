@@ -12,22 +12,37 @@ Por aqui você vai encontrar bots, APIs, sites, automações e experimentos que 
 
 <br/>
 
+<h3 align="center"><code>&gt; System loadout_</code></h3>
+
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,python,java,git,github&theme=dark" alt="JavaScript, Node.js, Express, MongoDB, HTML, CSS, Python, Java, Git e GitHub" />
 
 <br/><br/>
 
+<h3 align="center"><code>&gt; Player stats_</code></h3>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Programador-jr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas nos repositórios" />
 
 <br/>
+
+<h3 align="center"><code>&gt; Skill tree_</code></h3>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programador-jr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas nos repositórios" />
+
+<br/><br/>
+
+<h3 align="center"><code>&gt; Daily streak_</code></h3>
 
 <img src="https://streak-stats.demolab.com?user=Programador-jr&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de atividade no GitHub" />
 
 <br/><br/>
 
+<h3 align="center"><code>&gt; Activity map_</code></h3>
+
 <img src="https://raw.githubusercontent.com/Programador-jr/Programador-jr/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" />
 
 <br/><br/>
+
+<h3 align="center"><code>&gt; Pixel world_</code></h3>
 
 <img src="https://raw.githubusercontent.com/Programador-jr/Programador-jr/main/output/bonsai-growth.gif" width="384" alt="Bonsai pixel art gerado a partir do histórico de contribuições" />
 
