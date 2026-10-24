@@ -16,49 +16,6 @@ Por aqui você vai encontrar bots, APIs, sites, automações e experimentos que 
 
 ---
 
-## Projetos em andamento e experimentos
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Programador-jr/King">King</a></h3>
-      Um bot para Discord que foi ficando cada vez mais ambicioso: música, moderação, tickets, automações e até um painel web.
-      <br/><sub>Node.js · Discord · Web dashboard</sub>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Programador-jr/daily-newsletter">King's Newsletter</a></h3>
-      Uma newsletter de notícias com site próprio, edições, inscrições por e-mail e conteúdo para entender melhor o que acontece no mundo.
-      <br/><sub><a href="https://dailynewsletter.vercel.app/">Abrir o site</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Programador-jr/MyFinance">MyFinance</a></h3>
-      Uma API para organizar as finanças pessoais e familiares. Até o dinheiro merece um pouco de organização.
-      <br/><sub>Node.js · Express · MongoDB</sub>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/MuscleLib/musclelib-api">MuscleLib API</a></h3>
-      Uma API de exercícios com busca, filtros e suporte a português, inglês e espanhol.
-      <br/><sub><a href="https://libapi.vercel.app/">Explorar a API</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Programador-jr/King-Lavalink">King-Lavalink</a></h3>
-      Experimentos e configurações para fazer o sistema de música do King funcionar — incluindo alguns logs misteriosos pelo caminho.
-      <br/><sub>Java · Lavalink</sub>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Programador-jr/MyFinanceApp">MyFinanceApp</a></h3>
-      A parte visual do MyFinance: dashboards, gráficos, transações e uma interface responsiva para acompanhar as contas.
-      <br/><sub>HTML · CSS · JavaScript</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Tecnologias que aparecem por aqui
 
 <div align="center">
@@ -67,7 +24,7 @@ Por aqui você vai encontrar bots, APIs, sites, automações e experimentos que 
 
 </div>
 
-Não significa que eu saiba tudo disso — significa que já abri documentação, quebrei alguma coisa e aprendi um pouco no processo.
+Não significa que eu sexa expert em tudo isso, significa que já abri documentação, quebrei alguma coisa e aprendi um pouco no processo.
 
 ---
 
