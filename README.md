@@ -2,11 +2,12 @@
 
 # Daniel Melo
 
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+c%C3%B3digo;Bots%2C+APIs+e+experimentos;Programando+por+curiosidade+e+divers%C3%A3o" alt="Texto animado: transformando ideias em código, bots, APIs e experimentos" />
 </a>
 
-**Programo porque gosto de criar coisas — e porque às vezes uma ideia aleatória não me deixa em paz até virar código.**
+**Programo porque gosto de criar coisas, e porque às vezes uma ideia aleatória não me deixa em paz até virar código.**
 
 Por aqui você vai encontrar bots, APIs, sites, automações e experimentos que começaram com um “e se eu tentasse isso?”. Não tem grande plano de carreira por trás: é curiosidade, aprendizado e diversão.
 
@@ -22,7 +23,8 @@ Por aqui você vai encontrar bots, APIs, sites, automações e experimentos que 
 
 </div>
 
-Não significa que eu sexa expert em tudo isso, significa que já abri documentação, quebrei alguma coisa e aprendi um pouco no processo.
+> [!NOTE]
+> **Não significa que eu seja expert em tudo isso, significa que já abri documentação, quebrei alguma coisa e aprendi um pouco no processo.**
 
 ---
 
