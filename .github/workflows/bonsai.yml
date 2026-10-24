@@ -15,3 +15,7 @@ jobs:
     steps:
       - name: Grow bonsai from GitHub history
         uses: egorthinks/git-bonsai@v1
+        with:
+          user: Programador-jr
+          output-dir: output
+          season: auto
