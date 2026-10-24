@@ -39,6 +39,11 @@ A Lavalink deployment and development setup with Java launch scripts, YouTube so
 
 **Stack:** Java · Lavalink · Python · PowerShell · Bash
 
+### [MyFinanceApp](https://github.com/Programador-jr/MyFinanceApp)
+A responsive personal and family finance frontend with dashboards, transaction management, charts, savings goals, authentication flows, and PWA support.
+
+**Stack:** HTML · CSS · Bootstrap · JavaScript · Chart.js · PWA
+
 ---
 
 ## Technical Skills
