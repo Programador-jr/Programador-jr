@@ -1,10 +1,9 @@
 <div align="center">
 
-# Daniel Melo
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220,100:164E63&height=180&section=header&text=Daniel%20Melo&fontSize=42&fontColor=22D3EE&fontAlignY=38&animation=fadeIn" alt="Cabeçalho retrô em azul-marinho e ciano" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+c%C3%B3digo;Bots%2C+APIs+e+experimentos;Programando+por+curiosidade+e+divers%C3%A3o" alt="Texto animado: transformando ideias em código, bots, APIs e experimentos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+c%C3%B3digo;Bots%2C+APIs+e+experimentos;Programando+por+curiosidade+e+divers%C3%A3o" alt="Texto animado: transformando ideias em código, bots, APIs e experimentos" />
 </a>
 
 **Programo porque gosto de criar coisas, e porque às vezes uma ideia aleatória não me deixa em paz até virar código.**
@@ -49,6 +48,18 @@ Por aqui você vai encontrar bots, APIs, sites, automações e experimentos que 
 
 ---
 
+## Meu bonsai de código
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Programador-jr/Programador-jr/output/bonsai-growth.gif" width="384" alt="Bonsai pixel art que cresce a partir do histórico de contribuições" />
+
+*Cada commit ajuda a moldar essa pequena árvore pixel art.*
+
+</div>
+
+---
+
 ## Por aqui
 
 Se algum projeto te interessar, fique à vontade para explorar, testar ou sugerir melhorias. E se algo quebrar... bom, provavelmente era parte do experimento.
@@ -56,5 +67,7 @@ Se algum projeto te interessar, fique à vontade para explorar, testar ou sugeri
 <div align="center">
 
 **Código por hobby. Bugs por experiência. Aprendizado no caminho.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220,100:164E63&height=100&section=footer" alt="Rodapé ondulado em azul-marinho e ciano" width="100%" />
 
 </div>
