@@ -52,7 +52,7 @@ Por aqui você vai encontrar bots, APIs, sites, automações e experimentos que 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Programador-jr/Programador-jr/output/bonsai-growth.gif" width="384" alt="Bonsai pixel art que cresce a partir do histórico de contribuições" />
+<img src="https://raw.githubusercontent.com/Programador-jr/Programador-jr/main/output/bonsai-growth.gif" width="384" alt="Bonsai pixel art que cresce a partir do histórico de contribuições" />
 
 *Cada commit ajuda a moldar essa pequena árvore pixel art.*
 
